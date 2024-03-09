@@ -72,6 +72,10 @@ public class Prova1 {
         System.out.println("Qde café expresso: " + qde_expresso + " - valor: " + valor_expresso);
         System.out.println("Qde café capuccino: " + qde_capuccino + " - valor: " + valor_capuccino);
         System.out.println("Qde leite com café: " + qde_leite_com_cafe + " - valor: " + valor_leite_com_cafe);
+        System.out.println("Qde leite com achocolatado: " + qde_leite_achocolatado + " - valor: " + valor_leite_achocolatado);
+        System.out.println("Qde pão de queijo: " + qde_pao_de_queijo + " - valor: " + valor_pao_de_queijo);
+        System.out.println("Qde torrada: " + qde_torrada + " - valor: " + valor_torrada);
         System.out.println("Total de cafés vendidos: " + (qde_expresso + qde_capuccino + qde_leite_com_cafe) + " - valor total de vendas: " + valor_cafes_vendidos);
+        
     }
 }
